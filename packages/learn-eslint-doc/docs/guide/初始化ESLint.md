@@ -1,6 +1,6 @@
 # Getting Started with ESlint
 
-> ESLint 是一个用于识别和报告在 ECMAScript/JavaScript 代码中发现的模式的工具，目的是使代码更加一致和避免 bug。在很多方面，它类似于 JSLint 和 JSHint，只有少数例外
+> ESLint 是一个用于识别和报告在 ECMAScript/JavaScript 代码中发现问题的模式的工具，目的是使代码更加一致和避免 bug。在很多方面，它类似于 JSLint 和 JSHint，只有少数例外
 
 - ESLint 使用 Espree 进行 JavaScript 解析
 - ESLint 使用 AST 来计算代码中的模式
